@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "birthName": "John",
+        "age": 30,
+        "gender": "male",
+        "phone": "123-456-789",
+        "email": "john@example.com",
+        "bookings": [
+            {
+                "checkIn": "2024-06-01",
+                "checkOut": "2024-06-07",
+                "noGuests": 2
+            },
+            {
+                "checkIn": "2024-07-10",
+                "checkOut": "2024-07-15",
+                "noGuests": 4
+            }
+        ],
+        "payments": [
+            {
+                "amount": 100.0,
+                "payment_date": "2024-05-01",
+                "payment_method": "credit card"
+            },
+            {
+                "amount": 150.0,
+                "payment_date": "2024-06-01",
+                "payment_method": "paypal"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "birthName": "Alice",
+        "age": 25,
+        "gender": "female",
+        "phone": "987-654-321",
+        "email": "alice@example.com",
+        "bookings": [
+            {
+                "checkIn": "2024-08-01",
+                "checkOut": "2024-08-07",
+                "noGuests": 3
+            }
+        ],
+        "payments": [
+            {
+                "amount": 200.0,
+                "payment_date": "2024-07-01",
+                "payment_method": "credit card"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "birthName": "Bob",
+        "age": 35,
+        "gender": "male",
+        "phone": "555-555-555",
+        "email": "bob@example.com",
+        "bookings": [
+            {
+                "checkIn": "2024-05-05",
+                "checkOut": "2024-05-14",
+                "noGuests": 1
+            }
+        ],
+        "payments": [
+            {
+                "amount": 350.0,
+                "payment_date": "2024-03-02",
+                "payment_method": "credit card"
+            }
+        ]
+        }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "Cozy Apartment in Downtown",
+        "guestsIncluded": 2,
+        "price": 120.0,
+        "minimumNights": 2,
+        "availability": 85,
+        "numberOfReviews": 45,
+        "lastReview": "2024-05-15T12:00:00Z",
+        "amenities": {
+            "name": "Wifi"
+        },
+        "RoomType": {
+            "name": "Entire home/apt",
+            "description": "A comfortable entire apartment in the heart of downtown."
+        },
+        "boroughs": {
+            "name": "Manhattan" 
+        },
+        "neighborhood": {
+            "name": "Tribeca"
+        },
+        "address": {
+            "street": "123 Main Street",
+            "latitude": 40.7163,
+            "longitude": -74.0094,
+            "postal_code": "10007",
+            "city": "New York",
+            "country": "USA",
+            "state": "NY"
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "rating": 5,
+                "comment": "Great place, very clean!",
+                "review_date": "2024-05-01T12:00:00Z"
+            },
+            {
+                "id": 2,
+                "rating": 4,
+                "comment": "Excellent location.",
+                "review_date": "2024-05-10T12:00:00Z"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Spacious Loft with Skyline View",
+        "guestsIncluded": 4,
+        "price": 250.0,
+        "minimumNights": 3,
+        "availability": 70,
+        "numberOfReviews": 78,
+        "lastReview": "2024-05-20T12:00:00Z",
+        "amenities": {
+            "name": "Parking"
+        },
+        "RoomType": {
+            "name": "Entire home/apt",
+            "description": "A spacious loft with a stunning view of the skyline."
+        },
+        "boroughs": {
+            "name": "Brooklyn"
+        },
+        "neighborhood": {
+            "name": "Williamsburg"
+        },
+        "address": {
+            "street": "456 Elm Street",
+            "latitude": 40.7081,
+            "longitude": -73.9571,
+            "postal_code": "11211",
+            "city": "New York",
+            "country": "USA",
+            "state": "NY"
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "rating": 5,
+                "comment": "Amazing view and very spacious!",
+                "review_date": "2024-05-05T12:00:00Z"
+            },
+            {
+                "id": 2,
+                "rating": 4,
+                "comment": "Perfect for families.",
+                "review_date": "2024-05-15T12:00:00Z"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Charming Studio Near Central Park",
+        "guestsIncluded": 2,
+        "price": 180.0,
+        "minimumNights": 1,
+        "availability": 95,
+        "numberOfReviews": 60,
+        "lastReview": "2024-05-25T12:00:00Z",
+        "amenities": {
+            "name": "Air Conditioning"
+        },
+        "RoomType": {
+            "name": "Private room",
+            "description": "A cozy studio just a block away from Central Park."
+        },
+        "boroughs": {
+            "name": "Manhattan"
+        },
+        "neighborhood": {
+            "name": "Upper West Side"
+        },
+        "address": {
+            "street": "789 Oak Avenue",
+            "latitude": 40.7851,
+            "longitude": -73.9754,
+            "postal_code": "10024",
+            "city": "New York",
+            "country": "USA",
+            "state": "NY"
+        },
+        "reviews": [
+            {
+                "id": 1,
+                "rating": 5,
+                "comment": "Perfect location and very charming.",
+                "review_date": "2024-05-10T12:00:00Z"
+            },
+            {
+                "id": 2,
+                "rating": 4,
+                "comment": "Had a wonderful stay.",
+                "review_date": "2024-05-20T12:00:00Z"
+            }
+        ]
+    }
+]
